@@ -1,0 +1,14 @@
+vertex;start
+vertex;end
+vertex;room1
+vertex;room2
+vertex;room3
+vertex;room4
+edge;start;room1;Vile Beast
+edge;start;room2;Frail Witch
+edge;room1;room3;Necromancer
+edge;room1;room4;Large Toad
+edge;room2;room3;Ghastly Ghost
+edge;room2;room4;Skeleton
+edge;room3;end;Frost Giant
+edge;room4;end;Great Daniel

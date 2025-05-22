@@ -1,0 +1,32 @@
+Wiggly Wizard;Staff of Immobility;40;Everybody freeze!
+Frank the Frost Giant;Icicle;20;Drippy!
+Great Daniel;Staff of Sickness;500;Sick, dude
+Maria the Marauder;Hand Axe;200;Possibly for chopping wood
+Maria the Marauder;Skull Club;500;The skull is just for decoration
+Great Daniel;Broken Torch;5;Not even good for torching
+Wiggly Wizard;Staff of Vague Illness;100;Good enough to get out of class
+Scottish Ogre;Oversized Sword;200;Comically large
+Frank the Frost Giant;Snow Shovel;3;Should have bought a snowblower
+Large Toad;Big Leaf;5;Make like a tree...
+Ghastly Ghost;Ghostly Scimitar;90;Sharp and curvy
+Wiggly Wizard;Staff of Hair Loss;200;The horror!
+Ghastly Ghost;Ghost Gun;200;3D printed
+Frail Witch;Swiffer Sweeper;10;Not quite a broomstick, but it'll do
+Great Daniel;Ornate Wand;100;Probably more useful to a wizard
+Frank the Frost Giant;Frosty Lance;1500;Nothing like a Wendy's frosty
+Necromancer;Skeleton Staff;1000;Spooky!
+Maria the Marauder;Battle Axe;900;Definitely not for chopping wood
+Frail Witch;Gnarly Wand;50;Pretty gnarly bro
+Large Toad;Sharp Stick;20;Surprisingly pointy
+Vile Beast;Ancient Katana;500;Even vile beasts can appreciate Japanese culture
+Gelatinous Blob;Slimy Dagger;15;Don't get slimed out
+Stoic Elf;Elven Dagger;200;So smooth you can see your reflection
+Vile Beast;War Club;100;Probably the least fun kind of club
+Great Daniel;Greatsword;2000;A great sword!
+Vile Beast;Kitchen Knife;50;Nonetheless very sharp
+Scottish Ogre;Kitchen Knife;50;Nonetheless very sharp
+Vile Beast;Kitchen Knife;50;Nonetheless very sharp
+Necromancer;Suspicious Bone;30;Whose bone is this?
+Stoic Elf;Elven Bow;600;It has beautiful craftsmanship
+Skeleton;Boney Club;40;Looks suspiciously like a femur
+Frost Giant;Blizzard Fist;1500;I never saw it coming!
