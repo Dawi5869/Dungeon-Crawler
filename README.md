@@ -14,3 +14,5 @@ This project was built as the final assignment for my CSCI 2270 Data Structures 
 - **Inventory System (Max Heap)**: Each character's inventory is managed by a max heap to ensure the strongest weapon is always easily accessible.
 - **Battle Logic**: Uses a priority queue to decide the order of character encounters and simulate turn-based combat.
 
+## 📬 Contact
+Reach out at dawi5869@colorado.edu
